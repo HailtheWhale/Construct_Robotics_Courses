@@ -1,5 +1,5 @@
 # Construct_Robotics_Courses
-The files for exercises that I've made upon completion of Construct Courses. *Some commands were copy pasted if solutions were provided for that lesson, as is the case with beginner level parts of the courses.* **This was mostly done for quality of life print statements**, which the website has done for the sake of demonstration and to ensure the exercise was done right.  
+The files for exercises that I've made upon completion of Construct Courses. *Some commands for independent exercises were copy pasted if solutions were provided for that lesson, as is the case with beginner level parts of the courses.* **This was mostly done for quality of life print statements**, which the website has done for the sake of demonstration and to ensure the exercise was done right. *Some* exercises are supposed to be copy pasted. Those that are like this will be indicated in the readme for the lesson.
 
 The link to the website for these exercises is: [Construct Robotics](https://app.theconstructsim.com/).
 
