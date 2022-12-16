@@ -8,7 +8,7 @@ NOTE: To do this yourself, you **WILL** need a subscription to the website. This
 ## File Organization
 The files indicated are organized based on the course structure of the Construct website: [Construct Robotics](https://app.theconstructsim.com/). 
 
-Example: The Intro Courses: Intro to C++, Intro to Python, Intro to Linux, will all be subfolders under "Intro Courses."
+**Example**: The Intro Courses | Intro to C++, Intro to Python, Intro to Linux, will all be subfolders under "Intro Courses."
 
 ## File Use
 Separate readme files have been added to each course for info on how to run the given program. These are provided under the assumption that you are in the given lesson for the website. Additional locational info of where the exercise was in the lessons is provided as part of the file.
