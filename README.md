@@ -3,7 +3,7 @@ The files that I've made upon completion of Construct Courses. *Some commands we
 
 The link to the website for these exercises is: [Construct Robotics](https://app.theconstructsim.com/).
 
-NOTE: To do this yourself, you WILL need a subscription to the website. Demos of what the code is supposed to do is either provided with snapshots or videos. 
+NOTE: To do this yourself, you WILL need a subscription to the website. Demos of what the code is supposed to do is either provided with snapshots or videos. In the case of videos being too large for Github, a Youtube link is provided instead.
 
 ## File Organization
 The files indicated are organized based on the course structure of the Construct website: [Construct Robotics](https://app.theconstructsim.com/). 
