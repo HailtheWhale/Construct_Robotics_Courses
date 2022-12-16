@@ -6,7 +6,8 @@ The link to the website for these exercises is: [Construct Robotics](https://app
 NOTE: To do this yourself, you WILL need a subscription to the website. Demos of what the code is supposed to do is either provided with snapshots or videos. 
 
 ## File Organization
-The files indicated are organized based on the course structure of the Construct website. 
+The files indicated are organized based on the course structure of the Construct website: [Construct Robotics](https://app.theconstructsim.com/). 
+
 Example: The Intro Courses: Intro to C++, Intro to Python, Intro to Linux, will all be subfolders under "Intro Courses."
 
 ## File Use
