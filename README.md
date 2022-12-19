@@ -1,4 +1,4 @@
-# Construct_Robotics_Courses
+# Construct/Ignite_Academy_Robotics_Coursework
 The highlight files for exercises that I've made upon completion of Construct Courses with demos. *Some commands for independent exercises were copy pasted.* **This was mostly done for quality of life print statements**, which the website has done for the sake of command prompt demonstration and to ensure the exercise was done right. *Some* exercises are supposed to be copy pasted. Those that are like this will be indicated in the readme for the lesson, and indicated at the top of the individual script.
 
 The link to the website for these exercises is: [Construct Robotics](https://app.theconstructsim.com/).
