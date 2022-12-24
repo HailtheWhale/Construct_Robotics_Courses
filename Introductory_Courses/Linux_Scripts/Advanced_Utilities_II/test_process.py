@@ -1,4 +1,7 @@
 #!/usr/bin/env python
+###############################
+# THIS SCRIPT WAS PROVIDED BY THE CONSTRUCT.
+###############################
 
 import rospy
 from geometry_msgs.msg import Twist
