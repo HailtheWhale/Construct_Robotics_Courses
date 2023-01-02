@@ -1,0 +1,9 @@
+<launch>
+		
+	  <node pkg ="unit_6_exercises"
+	        type="call_bb8_move_custom_service_server.py"
+	        name="call_bb8_move_custom_service_server"
+	        output="screen">
+	  </node>
+	
+</launch>

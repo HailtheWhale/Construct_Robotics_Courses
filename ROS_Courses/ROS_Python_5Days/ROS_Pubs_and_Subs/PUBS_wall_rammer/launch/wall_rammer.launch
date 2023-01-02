@@ -1,5 +1,0 @@
-<launch>
-    <!-- My Package launch file -->
-    <node pkg="my_publisher_example_pkg" type="wall_rammer.py" name="wall_rammer"  output="screen">
-    </node>
-</launch>

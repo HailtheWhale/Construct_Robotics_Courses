@@ -1,0 +1,5 @@
+<launch>
+    <!-- Start Service Server for move_bb8_in_circle service -->
+    <node pkg="unit_8_exercise" type="Unit_8_Exercise.py" name="Unit_8_Exercise"  output="screen">
+    </node>
+</launch>
