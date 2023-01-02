@@ -1,5 +1,0 @@
-<launch>
-    <!-- My Package launch file -->
-    <node pkg="SUBS_nosy_nosy" type="age_pub.py" name="age_pub"  output="screen">
-    </node>
-</launch>
