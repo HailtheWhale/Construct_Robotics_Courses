@@ -1,0 +1,5 @@
+<launch>
+    <!-- My Package launch file -->
+    <node pkg="SUBS_nosy_nosy" type="odom_printer.py" name="odom_printer"  output="screen">
+    </node>
+</launch>
