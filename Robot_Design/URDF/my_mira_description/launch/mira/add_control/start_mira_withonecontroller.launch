@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- THIS WAS PROVIDED BY THE CONSTRUCT-->
+<launch>
+    <include file="$(find my_mira_description)/launch/mira/add_control/spawn_mira_with_onecontroller.launch"/>
+    <include file="$(find my_mira_description)/launch/mira/add_control/mira_onejoint_control.launch"/>
+</launch>
