@@ -1,0 +1,15 @@
+<launch>
+
+    <!-- Order of connections doesn't matter. Just make sure they're all in the same tree-->
+    <node pkg="tf" type="static_transform_publisher" name="box_static_TF_publisher_1" 
+          args="0 0 0 0 0 0 box_bot_3/odom box_bot_2/odom 100">
+    </node>
+
+    <node pkg="tf" type="static_transform_publisher" name="box_static_TF_publisher_2" 
+          args="0 0 0 0 0 0 box_bot_2/odom box_bot_1/odom 100">
+    </node>
+
+    <!-- Show in Rviz   -->
+    <node name="rviz" pkg="rviz" type="rviz" args="-d $(find tf_static_transform)/rviz/base.rviz"/>
+
+</launch>
