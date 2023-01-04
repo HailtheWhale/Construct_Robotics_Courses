@@ -1,0 +1,12 @@
+<launch>
+  <rosparam file="$(find quiz_control)/config/quiz_control.yaml" command="load"/>
+
+  <node name="controller_spawner" pkg="controller_manager" type="spawner" respawn="false"
+    output="screen" ns="/ur5" args="joint_state_controller shoulder_pan_joint_position_controller shoulder_lift_joint_position_controller wrist_1_joint_position_controller wrist_2_joint_position_controller wrist_3_joint_position_controller"/>
+
+  <node name="robot_state_publisher" pkg="robot_state_publisher" type="robot_state_publisher"
+    respawn="false" output="screen">
+    <remap from="/joint_states" to="/ur5/joint_states" />
+  </node>
+
+</launch>
