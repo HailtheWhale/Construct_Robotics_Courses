@@ -1,0 +1,3 @@
+<launch>
+    <node name='make_plan' pkg="make_plan" type="make_plan_caller.py" output="screen" />
+</launch>

@@ -1,0 +1,14 @@
+<launch>
+  <!-- THIS WAS PROVIDED BY THE CONSTRUCT -->
+  <arg name="map_file" default="$(find husky_navigation)/maps/my_map.yaml"/>
+  <node name="map_server" pkg="map_server" type="map_server" args="$(arg map_file)" />
+
+  <arg name="use_map_topic" default="true"/>
+  <arg name="scan_topic" default="scan" />
+
+  <node pkg="amcl" type="amcl" name="amcl">
+     <rosparam file="$(find my_amcl_launcher)/params/my_amcl_params.yaml" command="load" />
+
+  </node>
+
+</launch>
