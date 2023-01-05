@@ -1,0 +1,3 @@
+<launch>
+    <node name="goal_setter" pkg="send_goals" type="send_goal_client.py" args="" output="screen" />
+</launch>

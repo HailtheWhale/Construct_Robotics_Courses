@@ -1,0 +1,5 @@
+<launch>
+    <node pkg="tf" type="static_transform_publisher" name="LaserScanner_Static_TF" 
+          args="0.1 0.2 0 0 0 0 base_link laserscanner_link 50">
+    </node>
+</launch>

@@ -1,0 +1,8 @@
+# THIS WAS PROVIDED BY THE CONSTRUCT
+global_frame: map
+rolling_window: true
+
+plugins:
+  - {name: static,                  type: "costmap_2d::StaticLayer"}
+  - {name: inflation,               type: "costmap_2d::InflationLayer"}
+
