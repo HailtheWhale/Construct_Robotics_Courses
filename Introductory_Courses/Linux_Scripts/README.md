@@ -143,7 +143,3 @@ Snapshots and demonstrations of what I found interesting.
  Notice how you can use variables to determine which commands to run based on user input. 
 
 https://user-images.githubusercontent.com/82235221/211167695-2e2fd35f-5663-4a75-84f3-17510ca9db24.mp4
-
-
-
-
