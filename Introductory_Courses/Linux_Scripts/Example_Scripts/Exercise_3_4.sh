@@ -9,7 +9,7 @@ if [ "$ARG1" == 'circle' ]; then
 	python move_bb8_circle.py
 elif [ "$ARG1" == 'forward_backward' ]; then
     echo "Moving BACK and FORWARD!";
-	python move_bb8_circle.py
+	python move_bb8_forward_backward.py
 elif [ "$ARG1" ==  'square'  ]; then
     echo "Moving in a SQUARE!";
 	python move_bb8_square.py
