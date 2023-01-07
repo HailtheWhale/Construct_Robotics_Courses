@@ -1,7 +1,7 @@
-# Intro to Linux 
+# Intro to Linux
 The "Linux for Robotics" course provided by the Construct. 
 
-## Interesting Info that was learned:
+## Interesting info that was learned:
 - ROS only fully supports Linux.
 - How to see hidden files and what these are.
 - How to view permission and set them.
