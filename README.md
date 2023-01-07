@@ -11,13 +11,13 @@ The files indicated are organized based on the course structure of the Construct
 **Example**: The Intro Courses | Intro to C++, Intro to Python, Intro to Linux, are subfolders under "Intro Courses."
 
 Various independent projects have been completed in the process of finishing certain courses to demonstrate working knowledge. The types of projects are as follows:
-*1. Micro-Projects* 
+1. Micro-Projects
  - Small projects to demonstrate concepts of what was learned.
-*2. Lesson Tests*
+2. Lesson Tests
  - Robotically graded "quizzes." Specific instructions and code functional requirements are provided, and these must be **strictly followed** to ensure a high score. 
- *3. Public Construct hosted GitHub projects*
+ 3. Public Construct hosted GitHub projects
  - Repositories that students may push and share what they've accomplished. Links to these will be provided if they are involved. 
- *4. Rosjects*
+ 4. Rosjects
  - What the Construct prides themselves on. A project involving working with a physical robot located in one of their facilities. These are like the Lesson Tests mentioned previously, but are composed of multiple stages.
  
  ### Project Presentations
