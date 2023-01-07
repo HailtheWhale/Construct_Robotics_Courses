@@ -113,9 +113,11 @@ Noteworthy commands from this course. For your and my convenience.
     - <PortValue> is the value of the port the ssh server is hosted on. 
         - Find this by using the `ps faul | grep ssh` command.
 - Updating the APT.
-    `sudo apt-fet update`
+    `sudo apt-get update`
 - Becoming a super user. Temporary elevated permissions. 
     `sudo <Command>`
     
 ## Snapshots and Demonstrations
 Snapshots and demonstrations of what I found interesting. 
+
+
