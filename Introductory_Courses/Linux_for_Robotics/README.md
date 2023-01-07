@@ -121,21 +121,21 @@ Noteworthy commands from this course. For your and my convenience.
 Snapshots and demonstrations of what I found interesting. 
 
 ### Changing Permissions
-![permissions1](https://github.com/HailtheWhale/Image_Repo/blob/main/Construct_Robotics_Courses/images/Permissions_EX1.png)   
+![permissions1](https://github.com/HailtheWhale/Image_Repo/blob/main/Construct_Robotics_Courses/Introductory_Courses/Linux_for_Robotics/Permissions_EX1.png)   
 
 - Notice the permissions on the far left.
 
-![permissions2](https://github.com/HailtheWhale/Image_Repo/blob/main/Construct_Robotics_Courses/images/Permissions_EX2.png)
-![permissions3](https://github.com/HailtheWhale/Image_Repo/blob/main/Construct_Robotics_Courses/images/Permissions_EX3.png)
+![permissions2](https://github.com/HailtheWhale/Image_Repo/blob/main/Construct_Robotics_Courses/Introductory_Courses/Linux_for_Robotics/Permissions_EX2.png)
+![permissions3](https://github.com/HailtheWhale/Image_Repo/blob/main/Construct_Robotics_Courses/Introductory_Courses/Linux_for_Robotics/Permissions_EX3.png)
     
 - Notice how execution permissions were removed fom everyone. 
     
-![permissions4](https://github.com/HailtheWhale/Image_Repo/blob/main/Construct_Robotics_Courses/images/Permissions_EX4.png)
+![permissions4](https://github.com/HailtheWhale/Image_Repo/blob/main/Construct_Robotics_Courses/Introductory_Courses/Linux_for_Robotics/Permissions_EX4.png)
 
 - Notice how now there are no permissions for the file at all.
     
  ### Bash Files
- ![bash1](https://github.com/HailtheWhale/Image_Repo/blob/main/Construct_Robotics_Courses/images/Bash_File_Ex.png)
+ ![bash1](https://github.com/HailtheWhale/Image_Repo/blob/main/Construct_Robotics_Courses/Introductory_Courses/Linux_for_Robotics/Bash_File_Ex.png)
     
  - Notice how bash files may be used to run multiple terminal commands in sequence. 
     
