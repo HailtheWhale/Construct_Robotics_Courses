@@ -2,7 +2,7 @@
 
 ARG1=$1
 			
-cd /home/user/catkin_ws/src/Construct_Robotics_Courses/Introductory_Courses/Linux_Scripts/src
+cd /home/user/catkin_ws/src/Construct_Robotics_Courses/Introductory_Courses/Linux_for_Robotics/src
 
 if [ "$ARG1" == 'circle' ]; then
     echo "Moving in a CIRCLE!";
