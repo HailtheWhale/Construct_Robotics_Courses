@@ -4,7 +4,7 @@ as apposed to Object Oriented Programming. README's are provided for each one ex
 Python lessons in its own folder. 
 
 ##Contents:
-- Linux Introduction 
+- Linux for Robotics 
 - Python for Robotics 
 - C++ for Robotics
 
