@@ -5,8 +5,13 @@ The "Linux for Robotics" course provided by the Construct.
 - ROS only fully supports Linux.
 - How to see hidden files and what these are.
 - How to view permission and set them.
-- How to create and exectute .bash scripts.
+- How to create and execute .bash scripts.
 - What a .bashrc file is. What changing it does.
+- What Environment variables are.
+- What Foreground and Background processes are.
+- How to ssh into a machine remotely.
+- What the Advanced Packing Tool is. 
+- How to use the sudo cmd. 
 
 ## Skills that were learned:
 1. Linux Shell skills:
@@ -14,14 +19,14 @@ The "Linux for Robotics" course provided by the Construct.
 - Creating, copying, pasting, and deleting folders and files.
 - Editing file contents in the "vi" visual editor. The basics.
 - Modifying permissions to files.
+- Viewing and changing environment variables.
 - Starting, pausing and killing foreground and background applications.
 2. Other skills:
-- Skill2
-- Skill3
+- Making and executing .bash scripts
+- Remotely connecting to a machine. 
 
-## Commands and Script Syntax Cheatsheet
-Noteworthy commands and code syntax from this course. For your and my convenience. 
-1. Linux Commands 
+## Commands Cheatsheet
+Noteworthy commands from this course. For your and my convenience. 
 - Navigating to a given file or folder.
     `cd <FileName_or_PathToFile>`
 - Navigating back one folder.
@@ -84,10 +89,33 @@ Noteworthy commands and code syntax from this course. For your and my convenienc
       - 3rd space = "All users"
 - Running .bash scripts
     `./<BashScript.sh>`
-- Running .bash scripts
-    `./<BashScript.sh>`
-- Running .bash scripts
-    `./<BashScript.sh>`
+- Seeing environment variables AND filtering these. 
+    `export | grep <TextToSearchFor>`
+    - Note: | grep also works to sort other commmands involving sorting.
+- Setting environment variables.
+    `export <VariableName>=<NewValue>`
+- Visualizing running system processes.
+    `htop`
+- Visualizing running system processes alternative.
+    `ps faux`
+- Getting the PID of a process.
+    `ps faux | grep <ProcessName>`
+    - PID is the 5 digit number to the far left.
+- Killing a process via PID
+    `kill <PID>`
+- Starting a background process.
+    `<NormalWaytoExecuteAProgram> &`
+    - Note: NEED to kill this via PID. 
+- Connecting to a machine remotely
+    `ssh <user>@<host> -p <PortValue>`
+    - <user> is the account you wish to sign in to.
+    - <host> is the machine's IP.
+    - <PortValue> is the value of the port the ssh server is hosted on. 
+        - Find this by using the `ps faul | grep ssh` command.
+- Updating the APT.
+    `sudo apt-fet update`
+- Becoming a super user. Temporary elevated permissions. 
+    `sudo <Command>`
     
 ## Snapshots and Demonstrations
 Snapshots and demonstrations of what I found interesting. 
