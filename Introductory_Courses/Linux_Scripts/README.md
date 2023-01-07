@@ -1,4 +1,4 @@
-# Intro to Linux
+# Linux for Robotics
 The "Linux for Robotics" course provided by the Construct. 
 
 ## Interesting info that was learned:
