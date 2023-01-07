@@ -120,4 +120,6 @@ Noteworthy commands from this course. For your and my convenience.
 ## Snapshots and Demonstrations
 Snapshots and demonstrations of what I found interesting. 
 
+### Changing Permissions
+![permissions1](https://github.com/HailtheWhale/Image_Repo/blob/main/Construct_Robotics_Courses/images/Permissions_EX1.png)    
 
