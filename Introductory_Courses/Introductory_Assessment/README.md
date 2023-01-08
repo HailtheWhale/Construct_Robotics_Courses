@@ -16,7 +16,7 @@ Needed to make the file structure specified below using a .bash script.
 #### Part 2
 Needed to make a .bash script which would call the appropriate Python script for a given input. 
 
-[link](https://youtu.be/bTuvCZWsUBE)
+[Example 2 Demo](https://youtu.be/bTuvCZWsUBE)
 
 #### Part 3
 Needed to make 3 Python blnak scripts, and set file permissions for each.
