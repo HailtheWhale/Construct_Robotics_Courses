@@ -24,7 +24,7 @@ Various independent projects have been completed in the process of finishing cer
  **Some** of the courses give the opportunity to present what was done in a particular course or Rosject to the Construct. Upon completion of this, a certificate is provided to demonstrate an acknowledged working proficiency in the subject. I will post the certificate along with the given Rosject and presentation upon completing  one of these.  
 
 ## Nested README's.
-Highlights of what was learned for a course will be provided in that course's README file. **This includes useful terminal commands and code syntax.** A little cheat sheet, if you will, for those who have managed to find this repository. In addition, the cool snapshots and videos for that course is posted here as well. 
+Highlights of what was learned for a course will be provided in that course's README file. In addition, the cool snapshots and videos for that course are posted here as well. 
 
 # Thanks
 To the Construct for giving me an opportunity to push my ROS learning to the next level. These courses have, are, and will continue to build my robotics foundation. Trying to perform the robotics research that I like doing would have been ***MUCH*** more difficult without these courses. Truly. Thank you.
