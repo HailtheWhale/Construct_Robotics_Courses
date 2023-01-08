@@ -101,7 +101,7 @@ Noteworthy Python Syntax from this course. For your and my convenience.
         - `continue`. For skipping one iteration of a loop.
 - Methods and Functions.
     - Use whenever there are any repeated blocks of code.
-    - Synax:
+    - Syntax:
     
         ```
         def <FunctionName>(<Condition1>=<Var1>,<Condition2>=<Var2>,...):
@@ -117,7 +117,7 @@ Noteworthy Python Syntax from this course. For your and my convenience.
     - Syntax
     
         ```
-        class <ClassName>:`
+        class <ClassName>:
             `def __init__(self,<Input1>,<Input2>,...):
                 <Arguments>
             def <Method1>(self,<Input1>=<Var1>,<Input2>=<Var2>,...):
