@@ -64,12 +64,18 @@ Noteworthy Python Syntax from this course. For your and my convenience.
  ![Comp Op](https://github.com/HailtheWhale/Image_Repo/blob/main/Construct_Robotics_Courses/Introductory_Courses/Python_for_Robotics/Comparison_Ops.png)
 - Conditionals. Boolean Logic.
     - Sytax:
-    `if <Condition1>:
-        <Statement1>
-     elif <Condition2>:
-        <Statement2>
-     else:
-        <Statement3>`
+    
+    `if <Condition1>:`
+    
+        `<Statement1>`
+        
+     `elif <Condition2>:`
+        
+        `<Statement2>`
+        
+     `else:`
+     
+        `<Statement3>`
      - Use compararison operators mentioned previously for conditionals. 
      - Else is optional. It will run if all other conditions are false.
 - Loops. 
@@ -77,35 +83,49 @@ Noteworthy Python Syntax from this course. For your and my convenience.
     - FOR loop.
         - Use for iterables. Runs until the end of the iterable unless broken. 
         - Syntax
-        `for <IterableName> in <Iterable>:
-            <Statements>`
+        
+        `for <IterableName> in <Iterable>:`
+        
+            `<Statements>`
     - WHILE loop.
         - USe when waiting for some condition. Runs until condition is false.
         - Syntax
-        `while <Condition1>:
-            <Statements>`
+        
+        `while <Condition1>:`
+        
+            `<Statements>`
     - Special Keywords
         - `break`. For breaking out of loops prematurely.
         - `continue`. For skipping one iteration of a loop.
 - Methods and Functions.
     - Use whenever there are any repeated blocks of code.
     - Synax:
-    `def <FunctionName>(<Condition1>=<Var1>,<Condition2>=<Var2>,...):
-        <Statements>
-        return <SomeValue>`
+    
+    `def <FunctionName>(<Condition1>=<Var1>,<Condition2>=<Var2>,...):`
+    
+        `<Statements>`
+        
+        `return <SomeValue>`
     - `return` statement is *optional*. It immediately ends the function process and returns some value.
     - Calling these: `<FunctionName>(<InputConditions>)`
 - Object Oriented Programming.
     - Better for large codes. Let's functions share variables and keeps variables local to an object.
     - Objects are made from classes. Classes may be made by you.
     - Syntax
-    `class <ClassName>:
-        def __init__(self,<Input1>,<Input2>,...):
-            <Arguments>
-        def <Method1>(self,<Input1>=<Var1>,<Input2>=<Var2>,...):
-            <Arguments>
-        if __name__ == '__main__':
-            <Arguments>`
+    
+    `class <ClassName>:`
+    
+        `def __init__(self,<Input1>,<Input2>,...):`
+            
+            `<Arguments>`
+        
+        `def <Method1>(self,<Input1>=<Var1>,<Input2>=<Var2>,...):`
+            
+            `<Arguments>`
+        
+        `if __name__ == '__main__':`
+            
+            `<Arguments>`
         - `__init__` is a constructor. It only runs when an object is instanciated.
         - `if __name__ == '__main__'` runs whenever the python script itself is run.
         - May add as many methods and initialization arguments as desired.
