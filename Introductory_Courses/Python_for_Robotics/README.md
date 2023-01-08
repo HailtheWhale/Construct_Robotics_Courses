@@ -112,3 +112,18 @@ Noteworthy Python Syntax from this course. For your and my convenience.
 
 ## Snapshots and Demonstrations
 Snapshots and demonstrations of what I found interesting. 
+
+- A while loop to continously check the distance of an object in front of the Turtlebot, and then stop when the robot is < 1 meter from the wall.
+
+https://user-images.githubusercontent.com/82235221/211200491-0dd1f7b6-7e27-4f2b-9c97-c2e32d3faff4.mp4
+
+- A script which calls methods from the robot_control_class object to make the Summit robot go into a room.
+
+https://user-images.githubusercontent.com/82235221/211200739-b1aa5b3d-87fd-4bda-a136-a895def191d2.mp4
+
+- An instanciated object which makes the Summit robot go to an opening, and then move in a small and big square.
+
+https://user-images.githubusercontent.com/82235221/211200747-588e9729-27db-475a-94b8-9c2d4f4879ea.mp4
+
+- An instanciated object which makes the Turtlebot escape the Maze and celebrate.
+[Youtube Link] (https://youtu.be/JJU3nZ9ftgc)
