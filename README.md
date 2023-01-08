@@ -3,7 +3,7 @@ The files for exercises that I've made upon completion of Construct Courses with
 
 The link to the website for these exercises is: [Construct Robotics](https://app.theconstructsim.com/).
 
-NOTE: Demos of what the code is supposed to do is either provided with snapshots or videos. If you'd like to do this yourself, you **WILL** need a subscription to the website. This is to ensure that under the hood Gazebos or background files are there and running. Granted, you'd be able to do this assuming you had ROS and all the packages, but I won't cover that.
+NOTE: Demos of what the code is supposed to do is either provided with snapshots or videos. Videos too big for GitHub are added as Youtube links. If you'd like to do this yourself, you **WILL** need a subscription to the website. This is to ensure that under the hood Gazebos or background files are there and running. Granted, you'd be able to do this assuming you had ROS and all the packages, but I won't cover that.
 
 ## File Organization
 The files indicated are organized based on the course structure of the Construct website. The link to this site was provided previously. 
