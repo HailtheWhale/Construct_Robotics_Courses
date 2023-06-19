@@ -1,3 +1,4 @@
+# **Upon realizing that the size of this repo will become very large very quickly after completing several courses, it has been decided to move/ redo all completed courses thus far to other repositories. This will instead be a landing page containing links to the relevant repos and demos (WIP).**
 # Construct/Ignite_Academy_Robotics_Coursework
 The files for exercises that I've made upon completion of Construct Courses with noteworthy demos. Since this is very much a learning website, *Some commands or entire code files for independent exercises were copy pasted as part of the given exercise.* **Files that are like this have "THIS WAS PROVIDED BY THE CONSTRUCT" written at the top of the file.** Files that I've done entirely ***independently will not have this written at the top***. 
 
